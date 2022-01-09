@@ -1,4 +1,4 @@
-Cześć, jest to temat poświęcony tutorialowi jak stworzyć własnego bota na discorda.
+#### Cześć, jest to temat poświęcony tutorialowi jak stworzyć własnego bota na discorda.
 
 Korzystam z biblioteki discord.js w wersji 13 (v13)
 
