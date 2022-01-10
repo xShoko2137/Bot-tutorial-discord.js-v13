@@ -1,6 +1,7 @@
 ## Komenda timeout przeznaczona dla wersji discord.js v13
 
 Podstawowa komenda timeout
+
 [+] Sprawdzanie czy oznaczona osoba posiada większą bądź równą range
 
 [+] Sprawdza czy użytkownik został oznaczony
