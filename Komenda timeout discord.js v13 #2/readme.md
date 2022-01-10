@@ -15,3 +15,5 @@ Podstawowa komenda timeout
 [+] Sprawdza czy wpisany czas jest większy niż 1 minuta a mniejszy niż 28 dni
 
 [-] Brak logów komendy
+
+[-] Brak możliwości wpisania powodu
